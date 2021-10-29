@@ -6,7 +6,7 @@ public:
         unordered_map<char, int> window;
         while(end < N){
             if(window.find(s[end]) != window.end())
-                start = max(start, window[s[end]] + 1);      //see explain      
+                start = max(start, window[s[end]] + 1);   
             window[s[end]] = end;
             max_len = max(max_len, end - start + 1);
             end++;
