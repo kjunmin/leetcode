@@ -15,3 +15,4 @@
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard |
 | 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | Easy |
+| 668 | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/ | Hard |
