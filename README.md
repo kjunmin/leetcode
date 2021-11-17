@@ -14,6 +14,7 @@
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard |
+| 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium |
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | Easy |
 | 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | Easy |
 | 668 | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/ | Hard |
