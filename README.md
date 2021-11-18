@@ -18,4 +18,5 @@
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | Easy |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy |
 | 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | Easy |
-| 668 | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/ | Hard |
+| 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy |
+| 668 | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | Hard |
